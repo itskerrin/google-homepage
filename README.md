@@ -1,0 +1,1 @@
+My goal in this project is to create a basic webpage to test the HTML and CSS skills I have learned over the past few days. Its not going to look great but it will give me a chance to try out the different things I have picked up.
